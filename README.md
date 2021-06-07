@@ -1,2 +1,2 @@
 # jwtTokens
-Basic project which deals with device token, access token and refresh token
+Basic module which deals with device token, access token and refresh token
